@@ -1,0 +1,63 @@
+# Gradle
+.gradle/
+build/
+*/build/
+*/build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android
+*.apk
+*.ap_
+*.aab
+local.properties
+*.hprof
+
+# Kotlin
+*.klob
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Coverage
+*.ec
+coverage/
+
+# Test reports
+*/test-results/
+
+# .omo
+.omo/
+.omo/**
+
+# JitPack build
+.jitpack.yml
+
+# Sherpa-ONNX models (downloaded at build time)
+*model*.onnx
+*model*.tflite
+
+# OpenCV native libs
+*.so
+*.dll
+*.dylib
+
+# Debug
+out/
