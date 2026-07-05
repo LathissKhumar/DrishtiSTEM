@@ -9,14 +9,14 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
 [![API Level](https://img.shields.io/badge/API-30%2B-brightgreen?style=for-the-badge)](https://developer.android.com/about/versions/11)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.1-purple?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)](#)
+[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)](https://github.com/LathissKhumar/DrishtiSDK/actions/workflows/ci.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-orange?style=for-the-badge)](CONTRIBUTING.md)
-[![GitHub stars](https://img.shields.io/github/stars/lathiss/DrishtiSTEM?style=for-the-badge&logo=github)](https://github.com/lathiss/DrishtiSTEM/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/lathiss/DrishtiSTEM?style=for-the-badge&logo=github)](https://github.com/lathiss/DrishtiSTEM/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/lathiss/DrishtiSTEM?style=for-the-badge&logo=github)](https://github.com/lathiss/DrishtiSTEM/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/lathiss/DrishtiSTEM?style=for-the-badge&logo=github)](https://github.com/lathiss/DrishtiSTEM/pulls)
-[![GitHub last commit](https://img.shields.io/github/last-commit/lathiss/DrishtiSTEM?style=for-the-badge&logo=github)](https://github.com/lathiss/DrishtiSTEM/commits/main)
-[![GitHub license](https://img.shields.io/github/license/lathiss/DrishtiSTEM?style=for-the-badge&logo=github)](https://github.com/lathiss/DrishtiSTEM/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/LathissKhumar/DrishtiSTEM?style=for-the-badge&logo=github)](https://github.com/LathissKhumar/DrishtiSTEM/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/LathissKhumar/DrishtiSTEM?style=for-the-badge&logo=github)](https://github.com/LathissKhumar/DrishtiSTEM/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/LathissKhumar/DrishtiSTEM?style=for-the-badge&logo=github)](https://github.com/LathissKhumar/DrishtiSTEM/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/LathissKhumar/DrishtiSTEM?style=for-the-badge&logo=github)](https://github.com/LathissKhumar/DrishtiSTEM/pulls)
+[![GitHub last commit](https://img.shields.io/github/last-commit/LathissKhumar/DrishtiSTEM?style=for-the-badge&logo=github)](https://github.com/LathissKhumar/DrishtiSTEM/commits/main)
+[![GitHub license](https://img.shields.io/github/license/LathissKhumar/DrishtiSTEM?style=for-the-badge&logo=github)](https://github.com/LathissKhumar/DrishtiSTEM/blob/main/LICENSE)
 
 ---
 
@@ -101,21 +101,21 @@ dependencyResolutionManagement {
 // build.gradle.kts
 dependencies {
     // Core SDK
-    implementation("com.github.lathiss.DrishtiSTEM:drishti-core:1.0.0")
+    implementation("com.github.LathissKhumar.DrishtiSTEM:drishti-core:1.0.0")
     
     // Plugins (pick what you need)
-    implementation("com.github.lathiss.DrishtiSTEM:drishti-graph:1.0.0")
-    implementation("com.github.lathiss.DrishtiSTEM:drishti-formula:1.0.0")
-    implementation("com.github.lathiss.DrishtiSTEM:drishti-molecule:1.0.0")
-    implementation("com.github.lathiss.DrishtiSTEM:drishti-circuit:1.0.0") // future
+    implementation("com.github.LathissKhumar.DrishtiSTEM:drishti-graph:1.0.0")
+    implementation("com.github.LathissKhumar.DrishtiSTEM:drishti-formula:1.0.0")
+    implementation("com.github.LathissKhumar.DrishtiSTEM:drishti-molecule:1.0.0")
+    implementation("com.github.LathissKhumar.DrishtiSTEM:drishti-circuit:1.0.0") // future
     
     // Renderers
-    implementation("com.github.lathiss.DrishtiSTEM:drishti-haptics:1.0.0")
-    implementation("com.github.lathiss.DrishtiSTEM:drishti-audio:1.0.0")
-    implementation("com.github.lathiss.DrishtiSTEM:drishti-voice:1.0.0")
+    implementation("com.github.LathissKhumar.DrishtiSTEM:drishti-haptics:1.0.0")
+    implementation("com.github.LathissKhumar.DrishtiSTEM:drishti-audio:1.0.0")
+    implementation("com.github.LathissKhumar.DrishtiSTEM:drishti-voice:1.0.0")
     
     // Android integration
-    implementation("com.github.lathiss.DrishtiSTEM:drishti-android:1.0.0")
+    implementation("com.github.LathissKhumar.DrishtiSTEM:drishti-android:1.0.0")
 }
 ```
 
@@ -293,7 +293,7 @@ We make it easy to contribute:
 
 ```bash
 # Get started
-git clone https://github.com/lathiss/DrishtiSTEM
+git clone https://github.com/LathissKhumar/DrishtiSTEM
 cd DrishtiSTEM
 ./gradlew build
 ```
