@@ -29,13 +29,13 @@ I just released v1.0.0 of Drishti SDK — a Kotlin Multiplatform library that ma
 
 **Quick start:**
 ```kotlin
-implementation("com.github.lathiss.DrishtiSTEM:drishti-core:1.0.0")
-implementation("com.github.lathiss.DrishtiSTEM:drishti-graph:1.0.0")
-implementation("com.github.lathiss.DrishtiSTEM:drishti-haptics:1.0.0")
+implementation("com.github.LathissKhumar.DrishtiSTEM:drishti-core:1.0.0")
+implementation("com.github.LathissKhumar.DrishtiSTEM:drishti-graph:1.0.0")
+implementation("com.github.LathissKhumar.DrishtiSTEM:drishti-haptics:1.0.0")
 ```
 
 **Links:**
-- GitHub: https://github.com/lathiss/DrishtiSTEM
+- GitHub: https://github.com/LathissKhumar/DrishtiSTEM
 - Docs: See README for architecture guide, plugin development, API reference
 - License: Apache 2.0
 

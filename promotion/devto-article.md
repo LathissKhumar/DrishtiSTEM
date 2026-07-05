@@ -106,10 +106,10 @@ dependencyResolutionManagement {
 
 // build.gradle.kts
 dependencies {
-    implementation("com.github.lathiss.DrishtiSTEM:drishti-core:1.0.0")
-    implementation("com.github.lathiss.DrishtiSTEM:drishti-graph:1.0.0")
-    implementation("com.github.lathiss.DrishtiSTEM:drishti-haptics:1.0.0")
-    implementation("com.github.lathiss.DrishtiSTEM:drishti-audio:1.0.0")
+    implementation("com.github.LathissKhumar.DrishtiSTEM:drishti-core:1.0.0")
+    implementation("com.github.LathissKhumar.DrishtiSTEM:drishti-graph:1.0.0")
+    implementation("com.github.LathissKhumar.DrishtiSTEM:drishti-haptics:1.0.0")
+    implementation("com.github.LathissKhumar.DrishtiSTEM:drishti-audio:1.0.0")
 }
 ```
 
@@ -149,11 +149,11 @@ diagram.voice()     // Get spoken description
 
 Each new diagram type is a separate plugin. Add a detector without modifying core. Every PR should include tests.
 
-See the [GitHub repository](https://github.com/lathiss/DrishtiSTEM) for full contributing guidelines.
+See the [GitHub repository](https://github.com/LathissKhumar/DrishtiSTEM) for full contributing guidelines.
 
 ## Links
 
-- **GitHub**: https://github.com/lathiss/DrishtiSTEM
+- **GitHub**: https://github.com/LathissKhumar/DrishtiSTEM
 - **License**: Apache 2.0
 - **Docs**: Architecture guide, plugin development, API reference in `/docs`
 

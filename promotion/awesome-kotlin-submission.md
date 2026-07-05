@@ -20,7 +20,7 @@ Drishti SDK is an open-source Kotlin Multiplatform library that converts visual 
 
 ### GitHub
 
-https://github.com/lathiss/DrishtiSTEM
+https://github.com/LathissKhumar/DrishtiSTEM
 
 ### Where to add?
 

@@ -30,7 +30,7 @@ val drishti = Drishti.Builder()
 ```
 
 **Links:**
-- GitHub: https://github.com/lathiss/DrishtiSTEM
+- GitHub: https://github.com/LathissKhumar/DrishtiSTEM
 - License: Apache 2.0
 
 Thank you for your consideration.

@@ -57,7 +57,7 @@ Key design decisions:
 **7/7**
 Built for developers. Designed for accessibility.
 
-GitHub: https://github.com/lathiss/DrishtiSTEM
+GitHub: https://github.com/LathissKhumar/DrishtiSTEM
 
 Star ⭐ if this resonates. PRs welcome.
 

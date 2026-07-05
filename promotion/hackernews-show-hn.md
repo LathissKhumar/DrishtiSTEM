@@ -34,7 +34,7 @@ diagram.haptics()  // Feel the structure
 diagram.audio()    // Hear the spatial layout
 ```
 
-GitHub: https://github.com/lathiss/DrishtiSTEM
+GitHub: https://github.com/LathissKhumar/DrishtiSTEM
 
 Would love feedback on the plugin architecture — especially from folks working on accessibility, assistive tech, or Kotlin Multiplatform.
 
