@@ -48,7 +48,7 @@ coverage/
 .omo/**
 
 # JitPack build
-.jitpack.yml
+jitpack.yml
 
 # Sherpa-ONNX models (downloaded at build time)
 *model*.onnx

@@ -12,8 +12,8 @@ This guide explains how to build the Drishti SDK from source.
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/lathiss/DrishtiSDK.git
-cd DrishtiSDK
+git clone https://github.com/lathiss/DrishtiSTEM.git
+cd DrishtiSTEM
 ```
 
 ## Environment Setup
