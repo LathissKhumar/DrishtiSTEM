@@ -304,11 +304,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ## 📖 Documentation
 
-- [Architecture Guide](docs/architecture.md)
-- [Plugin Development](docs/plugin-development.md)
-- [API Reference](docs/api-reference.md)
-- [Android Integration](docs/android-integration.md)
-- [Building from Source](docs/building.md)
+- [Architecture Guide](https://github.com/LathissKhumar/DrishtiSDK/blob/master/docs/architecture.md)
+- [Plugin Development](https://github.com/LathissKhumar/DrishtiSDK/blob/master/docs/plugin-development.md)
+- [API Reference](https://github.com/LathissKhumar/DrishtiSDK/blob/master/docs/api-reference.md)
+- [Android Integration](https://github.com/LathissKhumar/DrishtiSDK/blob/master/docs/android-integration.md)
+- [Building from Source](https://github.com/LathissKhumar/DrishtiSDK/blob/master/docs/building.md)
 
 ---
 
